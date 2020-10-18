@@ -5,6 +5,8 @@ nav_order: 2
 
 ## Hyperledger based projects
 
+These projects use or based on or clone of technologies managed by [Hyperledger open source community](https://www.hyperledger.org/).
+
 ### Fabric
 
 * [Fabric CA Analysis](https://openconsentia.github.io/fabric-ca-analysis/) - A project analysising the features and capabilities of Hyperledger Fabric CA.
