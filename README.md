@@ -1,23 +1,11 @@
-# Overview
+## Open Consentia
 
-Welcome to Open Consentia.
+Open Consentia is an informal enterprise, defined as a collective project or undertaking, with a mission to share knowledge through codes presented in this repo. 
 
-Open Consentia is an informal enterprise, a term defined as a collective project or undertaking, with a mission to share knowledge through codes presented in this [GitHub repo](https://github.com/openconsentia). 
-
-The major topics covered in the repo include the following:
-
-* Blockchain;
-* Containers (Docker and Kubernetes);
-* Go centric application framework.
-
-Each topic is further sub-divided into subject areas focusing on analysis of project forked from other repositories or codes written to loosely represents a real-life or hypothetical use case. 
-
-The subject focusing on analysis is intended to help followers of the Open Consentia enterprise to appreciate the features and functionality of an existing technology/product so its potential user can make judgement capabilities when deployed.
-
-The subject focusing on codes implemented to meet a use case is intended to inspire followers of Open Consentia to extend it to the status of a Minmum Viable Product (MVP).
+The main focus of Open Consentia is sharing codes and knowlege about distributed ledger technology (DLT). Since DLT does not exists on its own, the secondary focus will be on technologies necessary to support DLT namely, crytography and network orchestration tools. Open Consentia will also cover aspects of the lean startup methodology, whilst not technology focus, is nonetheless important to help adopters of DLT discover effective use for the technology.
 
 ## Copyright notice
 
-The copyright of all the projects shared under Open Consentia enterprise Github repositories belongs to the project's contributors. These projects are licensed under Apache 2.0 implicitly and explicitly.
+The copyright of all the projects shared under Open Consentia enterprise GitHub repositories belongs to the project's contributors. These projects are licensed under Apache 2.0 implicitly and explicitly.
 
 Copyright 2020. The Open Consentia Contributors. 
