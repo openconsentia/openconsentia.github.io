@@ -18,8 +18,8 @@ The projects hosted by Open Consentia are broadly group under these main topics.
 | Topic | Description |
 | --- | --- |
 | Contracts | Technologies used to create so-called "smart contracts" such as Webassembly or Chaincode. |
-| Identity management | Technologies that you will use to identify yourself in a DLT network. |
-| Libraries and frameworks | Tools that you will use to build application that interacts with DLT |
+| [Identity management](https://openconsentia.github.io/identity.html) | Technologies that you will use to identify yourself in a DLT network. |
+| [Libraries and frameworks](https://openconsentia.github.io/framework.html) | Tools that you will use to build application that interacts with DLT |
 | MVP | These are minimum viable products (MVPs) to demonstrate DLT use cases from end-to-end  |
 | Network orchestration* | Technologies you will use to run and connect DLT nodes |
 
